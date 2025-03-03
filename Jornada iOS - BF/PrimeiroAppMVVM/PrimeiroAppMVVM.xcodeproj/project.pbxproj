@@ -42,6 +42,7 @@
 		EFFCDDAF2CC96D5000BEEC72 /* PostCardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFCDDAE2CC96D5000BEEC72 /* PostCardViewModel.swift */; };
 		EFFCDDB22CC96EDC00BEEC72 /* PostCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFCDDB12CC96EDC00BEEC72 /* PostCollectionViewCell.swift */; };
 		EFFCDDB52CC9707900BEEC72 /* PostCollectionViewCellScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFCDDB42CC9707900BEEC72 /* PostCollectionViewCellScreen.swift */; };
+		EFFF00E52D76006F005F0F18 /* Secrets.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = EFFF00E42D76006F005F0F18 /* Secrets.xcconfig */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		EFFCDDAE2CC96D5000BEEC72 /* PostCardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardViewModel.swift; sourceTree = "<group>"; };
 		EFFCDDB12CC96EDC00BEEC72 /* PostCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCollectionViewCell.swift; sourceTree = "<group>"; };
 		EFFCDDB42CC9707900BEEC72 /* PostCollectionViewCellScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCollectionViewCellScreen.swift; sourceTree = "<group>"; };
+		EFFF00E42D76006F005F0F18 /* Secrets.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Secrets.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 				EFA529DA2CDE5D47004EDD13 /* GoogleService-Info.plist */,
 				EF928ADE2C868ACF00C6BF4D /* Info.plist */,
 				EFBE21E12CC168D7008AF7F9 /* Assets.xcassets */,
+				EFFF00E42D76006F005F0F18 /* Secrets.xcconfig */,
 			);
 			path = PrimeiroAppMVVM;
 			sourceTree = "<group>";
@@ -478,6 +481,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFD2A7B42CE3E68500E49D47 /* HomeData.json in Resources */,
+				EFFF00E52D76006F005F0F18 /* Secrets.xcconfig in Resources */,
 				EFA529DB2CDE5D47004EDD13 /* GoogleService-Info.plist in Resources */,
 				EFBE21E22CC168D7008AF7F9 /* Assets.xcassets in Resources */,
 				EF928ADD2C868ACF00C6BF4D /* LaunchScreen.storyboard in Resources */,
